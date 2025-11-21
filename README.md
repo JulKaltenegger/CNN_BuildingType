@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 > 4. Evaluate Performance
 >> 4.1 Evaluation (Precision, Recall, Accuracy) \
->> 4.2 Test \
+>> 4.2 Test 
 
 > 5. Save the Model
 >> 5.1 Save the model 
